@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Press and education"
-author: john
+author: shweta
 categories: [ Jekyll, tutorial ]
 image: assets/images/7.jpg
 ---

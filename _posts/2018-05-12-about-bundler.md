@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Bundler"
-author: john
+author: shweta
 categories: [ Jekyll ]
 image: assets/images/2.jpg
 rating: 3
