@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "RecipeJaar"
+title: "RecipeJaar"
+description: "A Jar full of surprises and happiness"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 include: ["_pages"]
@@ -16,7 +16,7 @@ authors:
     email: shwetarajput@hotmail.com
     web: https://www.recipejaar.com
     twitter: https://twitter.com/
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll."
+    description: "Author of RecipeJaar, a Medium styled template available for Jekyll."
 # Plugins
 plugins:
   - jekyll-paginate
