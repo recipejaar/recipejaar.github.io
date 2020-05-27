@@ -1,53 +1,76 @@
+# ----
 # Site
-name: "RecipeJaar"
-title: "RecipeJaar"
-description: "A Jar full of surprises and happiness"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-include: ["_pages"]
-permalink: /:title/
 
-# Authors
-authors:
-  shweta:
-    name: Shweta Rajput
-    display_name: Shweta Rajput
-    gravatar: fbd04eca894ba7be0a8417e2fd582174
-    email: shwetarajput@hotmail.com
-    web: https://recipejaar.com
-    instagram: https://www.instagram.com/shwetarajput/
-    description: "Hi, I am the founder and author of RecipeJaar!"
-# Plugins
-plugins:
-  - jekyll-paginate
+title: Recipe Jaar
+url: "https://recipejaar.com/"
+baseurl:
+google_analytics_key:
+newsletter_action: "//your-mailchimp-action-url.com"
+disqus_shortname:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: A Jar full of surprises and happiness.
+author:
+  name: Shweta Rajput
+  email:
+  twitter: # twitter username without the @ symbol
+social:
+  name: RecipeJaar
+  links:
+    - https://github.com/CloudCannon/treat-jekyll-template
+
+# -----
+# Build
+
+paginate: 10
+paginate_path: "/:num/"
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      push_sidebar_down: true
+      print_stylesheet: true
+      comments: true
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+      push_sidebar_down: true
+
+gems:
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
+  - jekyll-feed
+  - jekyll-paginate
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
 
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+# -----------
+# CloudCannon
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
