@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-27T14:04:54+05:30</updated><id>http://localhost:4000/</id><title type="html">Recipe Jaar</title><subtitle>A Jar full of surprises and happiness.</subtitle><author><name>Shweta Rajput</name></author><entry><title type="html">Chocolate Cupcakes</title><link href="http://localhost:4000/cupcakes/cakes/2017/01/07/chocolate-cupcakes/" rel="alternate" type="text/html" title="Chocolate Cupcakes" /><published>2017-01-07T00:00:00+05:30</published><updated>2017-01-07T00:00:00+05:30</updated><id>http://localhost:4000/cupcakes/cakes/2017/01/07/chocolate-cupcakes</id><content type="html" xml:base="http://localhost:4000/cupcakes/cakes/2017/01/07/chocolate-cupcakes/">&lt;p&gt;These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I’ve found at parties people prefer bite sized deserts so I’d recommend making 24 mini cupcakes rather than 12 large. That way you won’t find half eaten cupcakes at your party!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipe Jaar</title>
+    <description>A Jar full of surprises and happiness.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 May 2020 14:28:18 +0530</pubDate>
+    <lastBuildDate>Wed, 27 May 2020 14:28:18 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Chocolate Cupcakes</title>
+        <description>&lt;p&gt;These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I’ve found at parties people prefer bite sized deserts so I’d recommend making 24 mini cupcakes rather than 12 large. That way you won’t find half eaten cupcakes at your party!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/UaeVmc51Ttw&quot; alt=&quot;Cupcakes&quot; /&gt;&lt;/p&gt;
 
@@ -10,7 +23,22 @@
 
 &lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/hUGe-RCni3k&quot; alt=&quot;Cupcakes&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Why not add some popcorn?&lt;/p&gt;</content><author><name>Shweta Rajput</name></author><summary type="html">These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I’ve found at parties people prefer bite sized deserts so I’d recommend making 24 mini cupcakes rather than 12 large. That way you won’t find half eaten cupcakes at your party!</summary></entry><entry><title type="html">Lemon Cake</title><link href="http://localhost:4000/cakes/2017/01/06/lemon-cake/" rel="alternate" type="text/html" title="Lemon Cake" /><published>2017-01-06T00:00:00+05:30</published><updated>2017-01-06T00:00:00+05:30</updated><id>http://localhost:4000/cakes/2017/01/06/lemon-cake</id><content type="html" xml:base="http://localhost:4000/cakes/2017/01/06/lemon-cake/">&lt;p&gt;If you’re a sour fan you’re going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light &amp;amp; flavorful recipes&lt;/p&gt;
+&lt;p&gt;Why not add some popcorn?&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/cupcakes/cakes/2017/01/07/chocolate-cupcakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/cupcakes/cakes/2017/01/07/chocolate-cupcakes/</guid>
+        
+        
+        <category>Cupcakes</category>
+        
+        <category>Cakes</category>
+        
+      </item>
+    
+      <item>
+        <title>Lemon Cake</title>
+        <description>&lt;p&gt;If you’re a sour fan you’re going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light &amp;amp; flavorful recipes&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/1HPTYLozDGw&quot; alt=&quot;Cake&quot; /&gt;&lt;/p&gt;
 
@@ -22,7 +50,20 @@
 
 &lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/7JYVKRo7i5Q&quot; alt=&quot;Cake&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Or a caramel sauce.&lt;/p&gt;</content><author><name>Shweta Rajput</name></author><summary type="html">If you’re a sour fan you’re going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light &amp;amp; flavorful recipes</summary></entry><entry><title type="html">Gingernut Cookies</title><link href="http://localhost:4000/cookies/2017/01/05/gingernut-cookies/" rel="alternate" type="text/html" title="Gingernut Cookies" /><published>2017-01-05T00:00:00+05:30</published><updated>2017-01-05T00:00:00+05:30</updated><id>http://localhost:4000/cookies/2017/01/05/gingernut-cookies</id><content type="html" xml:base="http://localhost:4000/cookies/2017/01/05/gingernut-cookies/">&lt;p&gt;These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.&lt;/p&gt;
+&lt;p&gt;Or a caramel sauce.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/cakes/2017/01/06/lemon-cake/</link>
+        <guid isPermaLink="true">http://localhost:4000/cakes/2017/01/06/lemon-cake/</guid>
+        
+        
+        <category>Cakes</category>
+        
+      </item>
+    
+      <item>
+        <title>Gingernut Cookies</title>
+        <description>&lt;p&gt;These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/euGck1ifvp0&quot; alt=&quot;Cookie&quot; /&gt;&lt;/p&gt;
 
@@ -34,4 +75,16 @@
 
 &lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/YnrSLOAjOEA&quot; alt=&quot;Cookie&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Delicious!&lt;/p&gt;</content><author><name>Shweta Rajput</name></author><summary type="html">These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.</summary></entry></feed>
+&lt;p&gt;Delicious!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Jan 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/cookies/2017/01/05/gingernut-cookies/</link>
+        <guid isPermaLink="true">http://localhost:4000/cookies/2017/01/05/gingernut-cookies/</guid>
+        
+        
+        <category>Cookies</category>
+        
+      </item>
+    
+  </channel>
+</rss>
